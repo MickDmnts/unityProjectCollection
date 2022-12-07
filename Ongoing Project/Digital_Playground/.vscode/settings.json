@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "[!A]*/**": true,
+        "A[!s]*/**": true,
+        "As[!s]*/**": true,
+        "Ass[!e]*/**": true,
+        "Asse[!t]*/**": true,
+        "Asset[!s]*/**": true,
+        "Assets/[!_]*/**": true,
+        "Assets/_[!S]*/**": true,
+        "Assets/_S[!c]*/**": true,
+        "Assets/_Sc[!r]*/**": true,
+        "Assets/_Scr[!i]*/**": true,
+        "Assets/_Scri[!p]*/**": true,
+        "Assets/_Scrip[!t]*/**": true,
+        "Assets/_Script[!s]*/**": true
+    }
+}
