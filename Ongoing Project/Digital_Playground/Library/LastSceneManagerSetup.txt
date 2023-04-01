@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Werewolf/StatusIndicators/Demos/SpellIndicators/SpellIndicators.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
