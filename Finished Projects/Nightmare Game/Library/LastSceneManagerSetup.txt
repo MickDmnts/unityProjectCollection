@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Complete-Game/_Complete-Game.unity
-  isLoaded: 1
-  isActive: 1
