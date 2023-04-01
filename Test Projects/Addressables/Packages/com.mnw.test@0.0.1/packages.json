@@ -1,0 +1,11 @@
+{
+  "name": "com.mnw.test",
+  "displayName": "Test",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Test desc",
+  "keywords": ["test"],
+  "upmCi": {
+    "footprint": "5b15d043a5a650aa946f7ebb6f696b9c22f75431"
+  }
+}
